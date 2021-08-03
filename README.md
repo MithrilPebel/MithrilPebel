@@ -40,4 +40,11 @@ You can also friend me on Discord: **MithrilPebel#6171**
 
 ## Github Stats
 
-[![Mithril Pebels Stats](https://github-readme-stats.vercel.app/api?username=MithrilPebel&show_icons=true&&bg_color=111&title_color=2e89df&text_color=fff&icon_color=2e89df&border_color=2e89df)](https://github.com/MithrilPebel/github-readme-stats)
+<details>
+  <summary>Click to expand</summary>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MithrilPebel&theme=dark&icon_color=2e89df&title_color=2e89df&border_color=2e89df&text_color=fff&bg_color=111&count_private=true&show_icons=true&include_all_commits=true" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithrilPebel&theme=dark&title_color=2e89df&border_color=2e89df&text_color=fff&bg_color=111&layout=compact" />
+    </p>
+</details>
