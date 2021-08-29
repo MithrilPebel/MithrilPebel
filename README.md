@@ -21,24 +21,6 @@ Mathew White
 
 </div>
 
-<p align="center">
-<a href="#about">About</a>
-•
-<a href="#skills">Skills</a>
-•
-<a href="#projects">Projects</a>
-•
-<a href="#contact">Contact</a>
-</p>
-
-## About
-
-## Skills
-
-## Projects
-
-## Contact
-
 <details>
 <summary>📊 Github Stats</summary>
 <br />
