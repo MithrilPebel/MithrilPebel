@@ -21,6 +21,10 @@ Hello! My name is Mathew.
 
 </div>
 
+## About Me
+
+My name is Mathew White, aka Mithril Pebel on the internet. I'm a code-crunching, pixel-pushing, word-wrangling bug smasher. I also happen to be a pony. I love to create and share my art with the world. I also love to make websites that are both functional and beautiful.
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
