@@ -1,6 +1,6 @@
 <h1 align="center">
 <br />
-<a href="https://github.com/MithrilPebel"><img src="banner.png" alt="Banner" width="300px"></a>
+<a href="https://github.com/MithrilPebel"><img src="banner.png" alt="Banner" width="600px"></a>
 <br />
 Mathew White
 </h1>
