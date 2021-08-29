@@ -25,7 +25,7 @@ Hello! My name is Mathew.
 
 My name is Mathew White, aka Mithril Pebel on the internet. I'm a code-crunching, pixel-pushing, word-wrangling bug smasher. I also happen to be a pony. I love to create and share my art with the world. I also love to make websites that are both functional and beautiful.
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,5 +40,6 @@ My name is Mathew White, aka Mithril Pebel on the internet. I'm a code-crunching
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Github Stats
 
 <img align="center" alt="MithrilPebel's Github Stats" src="https://github-readme-stats-mithrilpebel.vercel.app/api?username=MithrilPebel&theme=github_dark&show_icons=true&hide_border=true" />
