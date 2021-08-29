@@ -1,6 +1,6 @@
 <h1 align="center">
 <br />
-<a href="https://github.com/MithrilPebel"><img src="banner.png"></a>
+<a href="https://github.com/MithrilPebel"><img src="banner.png" alt="Banner" width="300px"></a>
 <br />
 Mathew White
 </h1>
@@ -10,13 +10,13 @@ Mathew White
 <div align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
+<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
 </a>
 
 </div>
