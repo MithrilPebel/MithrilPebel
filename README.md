@@ -1,9 +1,9 @@
-<div align="center">
+<h1 align="center">
 <br />
 <a href="https://github.com/MithrilPebel"><img src="banner.png"></a>
 <br />
 Mathew White
-</div>
+</h1>
 
 <h3 align="center">Mithril Pebel</h3>
 
