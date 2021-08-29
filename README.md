@@ -40,9 +40,5 @@ My name is Mathew White, aka Mithril Pebel on the internet. I'm a code-crunching
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<details>
-<summary>📊 Github Stats</summary>
-<br />
+
 <img align="center" alt="MithrilPebel's Github Stats" src="https://github-readme-stats-mithrilpebel.vercel.app/api?username=MithrilPebel&theme=github_dark&show_icons=true&hide_border=true" />
-<br />
-</details>
