@@ -41,5 +41,5 @@ Mathew White
 
 <details>
 <summary>📊 Github Stats</summary>
-<img align="center" alt="MithrilPebel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MithrilPebel&theme=dark&show_icons=true&hide_border=true" />
+<img align="center" alt="MithrilPebel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MithrilPebel&theme=github_dark&show_icons=true&hide_border=true" />
 </details>
