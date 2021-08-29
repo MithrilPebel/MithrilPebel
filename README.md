@@ -5,6 +5,18 @@
 Mathew White
 </h1>
 
-<h3 align="center">Mithril Pebel</h3>
+<h3 align="center">Advance Front-end developer, Web Designer, Artist, and Brony</h3>
 
-<h4 align="center">Advance Front-end developer, Web Designer, Artist, and Brony</h4>
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="#">
+<img src="	https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
+</a>
+
+</div>
