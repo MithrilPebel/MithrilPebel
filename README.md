@@ -1,7 +1,10 @@
 <div align="center">
 <br />
-<img src="banner.png">
+<a href="https://github.com/MithrilPebel"><img src="banner.png"></a>
 <br />
-# Mathew White
-### Mithril Pebel
+Mathew White
 </div>
+
+<h3 align="center">Mithril Pebel</h3>
+
+<h4 align="center">Advance Front-end developer, Web Designer, Artist, and Brony</h4>
