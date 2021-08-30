@@ -23,7 +23,7 @@ Hello! My name is Mathew.
 
 ## About Me
 
-My name is Mathew White, aka Mithril Pebel on the internet. I'm a code-crunching, pixel-pushing, word-wrangling bug smasher. I also happen to be a pony. I love to create and share my art with the world. I also love to make websites that are both functional and beautiful.
+My name is Mathew White, aka Mithril Pebel on the internet. I'm a code-crunching, pixel-pushing, word-wrangling bug smasher. I also happen to be a pony. I love to create and share my art with the world. I also love to make websites that are both functional and beautiful. I was born on January 30th, 1996. Which makes me 25.
 
 ## Languages and Tools:
 
