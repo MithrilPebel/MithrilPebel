@@ -9,13 +9,13 @@ Hello! My name is Mathew.
 
 <div align="center">
 
-<a href="#">
+<a href="https://twitter.com/MithrilPebel">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="#">
+<a href="https://discord.gg/A8A9xUuSuE">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="#">
+<a href="https://www.patreon.com/mithrilpebel">
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
 </a>
 
